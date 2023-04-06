@@ -6,15 +6,28 @@
     color: #094C56;
     border-radius: 15px;
 }
+.form1{
+    background-color: #cdcdcd;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 60px;
+    color: #094C56;
+    border-radius: 15px;
+}
+.form1 h1{
+    border: 0;
+    padding: 0;
+    margin: 8px;
+}
 
 .label{
     font-size: 18px;
 }
 input{
-    border: solid 1px #32a7b1;
+    border: solid 1px #2397a1;
     border-radius: 17px;
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 5px;
+    margin-bottom: 3px;
     text-align: center;
 }
 button{
